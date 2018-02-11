@@ -1,7 +1,7 @@
 {
   "name": "sequelize-model-updater",
   "main": "./lib/atom-test",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Updates model files automatically when migration script is changed",
   "keywords": [],
   "activationCommands": {
