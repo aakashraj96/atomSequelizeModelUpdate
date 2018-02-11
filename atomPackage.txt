@@ -1,0 +1,4 @@
+Atom command pallete : cmd+shift+p
+Package generator
+lib/Atom-test.js This is the main file
+activate() is the first function to be executed when plugin runs
