@@ -1,14 +1,14 @@
 {
-  "name": "atom-test",
+  "name": "sequelize-model-updater",
   "main": "./lib/atom-test",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Updates model files automatically when migration script is changed",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "atom-test:toggle"
   },
-  "repository": "https://github.com/atom/atom-test",
+  "repository": "https://github.com/aakashraj96/atomSequelizeModelUpdate",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
